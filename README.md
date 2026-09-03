@@ -1,41 +1,55 @@
-
-Data Analyst | Python, SQL, Power BI | MSc Data Analytics @ Dublin Business School | Oracle OCI Certified | Open to Data Analyst roles in Ireland
-
-
 # Hi, I'm Siva Kumar Thandra 👋
-
-**Data Analyst | MSc Data Analytics — Dublin Business School (2025)**  
-📍 Dublin, Ireland | 🔗 [LinkedIn](https://www.linkedin.com/in/siva-kumar-thandra/)
-
----
-
-## About Me
-
-Data Analytics professional with 3+ years of experience in financial 
-reporting, business analysis, and process improvement. Currently 
-completing MSc in Data Analytics at Dublin Business School.
-
-I specialise in turning raw data into actionable insights using Python, 
-SQL, Power BI, and Tableau. My MSc thesis built a machine learning 
-pipeline to predict Irish house prices using individual property-level 
-spatial features — first study of its kind in Ireland.
+Data Analyst (3+ years) • Python • SQL • Power BI • Machine Learning • Spatial Analytics  
+📍 Dublin, Ireland • 🔗 [LinkedIn](https://www.linkedin.com/in/siva-kumar-thandra/)
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-**Languages**
-Python | SQL | R
+I'm a Data Analyst with 3+ years of experience in financial reporting,
+business analysis, and process improvement, currently completing an 
+MSc in Data Analytics at Dublin Business School.
 
-**Machine Learning**
-scikit-learn | XGBoost | PyTorch | SHAP
+I build end-to-end analytics solutions: data collection → cleaning → 
+feature engineering → modelling → visualisation → insight delivery.
 
-**Visualisation**
-Power BI | Tableau | Matplotlib | Seaborn
+---
 
-**Cloud & Tools**
-Oracle Cloud Infrastructure | Microsoft Azure | Google Colab
-Excel | Git | OSMnx | GeoPy
+## 🔥 Highlights
+
+- MSc Thesis — First Irish ML study to calculate spatial features at 
+  individual property level using GPS coordinates and NTA transport data
+- Machine learning models (Linear Regression, Random Forest, XGBoost) 
+  for Irish house price prediction — R²=0.3846
+- Year-by-year SHAP temporal analysis across 2019–2023 — globally original
+- KPI dashboards and automated reporting workflows reducing reporting 
+  errors by over 60%
+- Churn prediction model achieving 92% accuracy
+- Investment performance and risk analytics dashboard covering ROI, 
+  volatility, Sharpe Ratio, and drawdown
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:** Python, SQL, R, Excel  
+**Machine Learning:** scikit-learn, XGBoost, PyTorch, SHAP  
+**Visualisation:** Power BI, Tableau, Matplotlib, Seaborn  
+**Spatial & Geocoding:** OSMnx, GeoPy, Nominatim, Haversine  
+**Cloud:** Oracle Cloud Infrastructure (OCI), Microsoft Azure  
+**Tools:** Google Colab, Git, NTA GTFS, OpenStreetMap  
+
+---
+
+## 👀 About Me
+
+- 🔭 Currently working on: spatial machine learning and data analytics projects
+- 🌱 Currently learning: advanced ML, cloud data platforms, and LLMs
+- 👯 Looking to collaborate on: analytics dashboards, forecasting, and ML pipelines
+- 💬 Ask me about: Python, SQL, Power BI, machine learning, and spatial analytics
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/siva-kumar-thandra/)
+- ⚡ Fun fact: I built the first Irish house price ML model using 
+  individual GPS coordinates and NTA transport stop data
 
 ---
 
@@ -43,54 +57,14 @@ Excel | Git | OSMnx | GeoPy
 
 - Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 - Microsoft Certified: Azure Developer Associate
-- Excel — Code Basics
 - SQL — Simplilearn
+- Excel — Code Basics
 - CISCO
 
 ---
 
-## 📌 Featured Projects
+## 📌 Popular Repositories
 
-### 🏠 Irish House Price Prediction (MSc Thesis)
-First Irish ML study to calculate spatial features at individual 
-property level using GPS coordinates.
-- 1,539 geocoded properties across all 26 Irish counties (2019–2023)
-- 13 spatial features — Luas, DART, bus stops, schools, hospitals, 
-  parks, pharmacies, supermarkets
-- Random Forest achieved R²=0.3846, beating Carroll (2025) benchmark
-- First year-by-year SHAP temporal analysis globally
-- **Tech:** Python, scikit-learn, XGBoost, SHAP, OSMnx, GeoPy, NTA GTFS
-
----
-
-### 📊 Enterprise Data Quality Monitoring & Automation System
-Automated data quality monitoring across multiple business datasets.
-- Built Python scripts to detect missing values, anomalies, 
-  and inconsistencies
-- Designed SQL validation rules for data completeness
-- Created real-time Power BI dashboards for data quality metrics
-- Reduced reporting errors by over 60%
-- **Tech:** Python, SQL, Power BI
-
----
-
-### 💹 Investment Performance & Risk Reporting Dashboard
-Comprehensive portfolio analytics dashboard for investment monitoring.
-- Analysed equity and fixed income portfolio data
-- Calculated ROI, volatility, Sharpe Ratio, and drawdown
-- Built automated monthly reporting in Power BI and Excel
-- **Tech:** Power BI, Excel, Python, SQL
-
----
-
-## 📈 GitHub Stats
-
-![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thandrea9618-ui&show_icons=true&theme=dark)
-
----
-
-## 📫 Get In Touch
-
-- 💼 LinkedIn: [linkedin.com/in/siva-kumar-thandra](https://www.linkedin.com/in/siva-kumar-thandra/)
-- 📍 Open to Data Analyst roles — On-site, Hybrid, Remote
-- 🌍 Dublin, Ireland
+- 🏠 **irish-house-price-prediction** — MSc thesis ML pipeline
+- 📊 **data-quality-monitoring-system** — Automated data validation
+- 💹 **investment-risk-dashboard** — Portfolio analytics dashboard
